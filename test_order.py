@@ -1,3 +1,5 @@
+# Чичерова Полина, 47 когорта - Финальный проект. Инженер по тестированию плюс
+
 from api_requests import send_new_order, find_order_by_track
 from data import new_order
 
